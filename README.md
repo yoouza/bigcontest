@@ -1,13 +1,15 @@
 # Big contest
 
+---------------------
+
 * 활용데이터 set
 1. (유동인구[SKTelecom], 카드매출[신한], SNS[와이즈넛], 유통[GS retail], 물류[CJ])
 2. 네이버 기사
 3. 코로나19 확진자 수
 
-https://drive.google.com/drive/folders/16281I0YEhxgmtqCeuucojg5keX3BfIW9?usp=sharing
+Link : https://drive.google.com/drive/folders/16281I0YEhxgmtqCeuucojg5keX3BfIW9?usp=sharing
 
----------------------
+
 ## 최종 목표
 > 1. 다음 기간 매출 예측
 > 2. 오프라인 매장 위기 극복 방안 제시
@@ -41,6 +43,8 @@ https://drive.google.com/drive/folders/16281I0YEhxgmtqCeuucojg5keX3BfIW9?usp=sha
 | 80 | 요식업소 |
 | 81 | 음료식품 |
 
+<br/>
+
 * 텍스트 전처리
 
 ```
@@ -60,11 +64,15 @@ data_preprocessing/News_Labeling.ipynb
 data_analysis/News_Classification_KoBERT.ipynb
 ```
 
+<br/>
+
 * 텍스트 분석 시각화
 
 ```
 estimation/News_Estimation.ipynb.ipynb
 ```
+
+<br/>
 
 * 시계열 분석
 

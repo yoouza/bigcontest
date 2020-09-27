@@ -1,17 +1,21 @@
 # Big contest
 
-> * 활용데이터 set
-> 1. (유동인구[SKTelecom], 카드매출[신한], SNS[와이즈넛], 유통[GS retail], 물류[CJ])
-> 2. 네이버 기사
-> 3. 코로나19 확진자 수
+* 활용데이터 set
+1. (유동인구[SKTelecom], 카드매출[신한], SNS[와이즈넛], 유통[GS retail], 물류[CJ])
+2. 네이버 기사
+3. 코로나19 확진자 수
 
->     https://drive.google.com/drive/folders/16281I0YEhxgmtqCeuucojg5keX3BfIW9?usp=sharing
+https://drive.google.com/drive/folders/16281I0YEhxgmtqCeuucojg5keX3BfIW9?usp=sharing
+
 ---------------------
 ## 최종 목표
 > 1. 다음 기간 매출 예측
 > 2. 오프라인 매장 위기 극복 방안 제시
 <br/><br/>
 ### 프로젝트 순서
+
+<br/>
+
 **1. 필요 데이터 선정 및 수집(2019.02.01 ~ 2020.05.31)**
 
 | 신한카드 매출 데이터(내.외국인) | 네이버 뉴스(사회, 경제, 문화) | 코로나19 확진자 수 |

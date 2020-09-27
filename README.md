@@ -55,6 +55,7 @@ data_preprocessing/News_Labeling.ipynb
 
 > BERTClassification 을 활용한 뉴스 텍스트 Tone 분석
 
+**Test ACC : 0.70898**
 ```
 data_analysis/News_Classification_KoBERT.ipynb
 ```
@@ -63,6 +64,7 @@ data_analysis/News_Classification_KoBERT.ipynb
 
 > XGBoost Ensemble를 활용한 향후 매출액 예측
 
+**MAPE : 0.1133**
 ```
 data_analysis/XGBoost_baseline.ipynb
 ```

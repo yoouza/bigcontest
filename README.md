@@ -60,6 +60,12 @@ data_preprocessing/News_Labeling.ipynb
 data_analysis/News_Classification_KoBERT.ipynb
 ```
 
+* 텍스트 분석 시각화
+
+```
+estimation/News_Estimation.ipynb.ipynb
+```
+
 * 시계열 분석
 
 > XGBoost Ensemble를 활용한 향후 매출액 예측

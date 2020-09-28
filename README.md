@@ -69,7 +69,7 @@ data_analysis/News_Classification_KoBERT.ipynb
 * 텍스트 분석 시각화
 
 ```
-estimation/News_Estimation.ipynb.ipynb
+estimation/News_Estimation.ipynb
 ```
 
 <br/>

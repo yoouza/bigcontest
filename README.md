@@ -76,9 +76,23 @@ estimation/News_Estimation.ipynb.ipynb
 
 * 시계열 분석
 
-> XGBoost Ensemble를 활용한 향후 매출액 예측
+> XGBoost, LSTM, GRU를 활용한 향후 매출액 예측
 
-**MAPE : 0.1133**
 ```
-data_analysis/XGBoost_baseline.ipynb
+data_analysis/Various_Models.ipynb
 ```
+
+**업종별 Test MAPE**
+
+|      업종      | XGBoost | LSTM | GRU  |
+| :------------: | :-----: | :--: | :--: |
+| 가구, 주방용구 |  31.0   | 34.5 | 28.4 |
+| 가전, 사무통신 |  17.0   | 13.3 | 24.2 |
+|      숙박      |  21.8   | 39.4 | 42.2 |
+|    레저용품    |  23.2   | 28.2 | 35.2 |
+|     유통업     |  11.3   | 41.4 | 41.5 |
+|      의복      |  26.1   | 27.3 | 26.7 |
+|    신변잡화    |  24.4   | 32.9 | 28.1 |
+|    요식업소    |  11.0   | 17.0 | 14.1 |
+|    음료식품    |  24.3   | 36.0 | 41.6 |
+
